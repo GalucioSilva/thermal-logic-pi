@@ -1,0 +1,5 @@
+adafruit-blinka
+adafruit-circuitpython-max31856
+adafruit-circuitpython-ads1x15
+gpiozero
+matplotlib

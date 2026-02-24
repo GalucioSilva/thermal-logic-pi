@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+*.log
+.idea/
+.vscode/
+
+# output de execucao
+data/
